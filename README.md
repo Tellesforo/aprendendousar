@@ -1,7 +1,7 @@
 # Aprendendo usar o Git/GitHub
 Um projeto treinando uso do Git e GitHub
 
-<img src=".tela.gif" alt="Tela do GitHub">
+[<img src=".tela.gif" alt="Tela do GitHub">]
 
 ## Tecnológias utilizadas
 - HTML
@@ -12,6 +12,7 @@ Um projeto treinando uso do Git e GitHub
 - Configuração do Git
 - Uso dos comandos no GitBash
 - Criação de um README
+- Utilização do GitHubPages
 
 ### Comandos usados no GitBash
 ```
